@@ -10,24 +10,18 @@
 </head>
 <body>
 
-<footer>
+<footer class="align-content-center">
+
+<hr>
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <h4>About Us</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla, velit sed consectetur scelerisque, mauris nulla tristique turpis, et consectetur purus velit in nisi.</p>
-            </div>
-            <div class="col-md-4">
-                <h4>Services</h4>
-                <ul>
-                    <li><a href="#">Service 1</a></li>
-                    <li><a href="#">Service 2</a></li>
-                    <li><a href="#">Service 3</a></li>
-                </ul>
+                <h4>PESONA</h4>
+                <p>mari pesan paket layanan pada website pesona</p>
             </div>
             <div class="col-md-4">
                 <h4>Contact Us</h4>
-                <p>Address: 123 Main St, City, State, ZIP
+                <p>Palembang,Sumatera selatan, Indonesia
 </footer>
     
 </body>

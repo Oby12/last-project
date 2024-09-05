@@ -26,7 +26,11 @@
 
         .display-total-wisata{
             margin-top: 66px;
-            font-family: Poppins-semibold;
+            font-family: Pop;
+        }
+
+        .nav-item.kursor:hover{
+            background-color: cornflowerblue;
         }
 
     </style>
@@ -43,17 +47,14 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-auto fw-semibold">
-            <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <li class="nav-item kursor">
+                <a class="nav-link active" aria-current="page" href="main.php">Beranda</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Layanan</a>
+            <li class="nav-item kursor">
+                <a class="nav-link active" aria-current="page" href="wisata-register.php">Order</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link active" href="#">Cart</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link active" href="#">Profile</a>
+            <li class="nav-item kursor">
+                <a class="nav-link active" aria-current="page" href="daftar-pesanan.php">Daftar Pesanan</a>
             </li>
             <form action=""></form>
             </ul>
